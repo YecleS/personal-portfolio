@@ -23,12 +23,18 @@ export default function AboutSectionView() {
                     <li><i className="fa-solid fa-envelope"></i> yeclasteven85@gmail.com</li>
                 </div>
 
-                <PrimaryButton customClass='cta-button' Label='Download CV' />
+                <a
+                    href="/Steven Yecla - Resume.pdf"
+                    download
+                    className="about-cta"
+                >
+                    Download CV
+                </a>
 
                 <div className='social-icons-wrapper'>
-                    <a href="#"><i className="fa-brands fa-square-facebook"></i></a>
-                    <a href="#"><i className="fa-brands fa-square-instagram"></i></a>
-                    <a href="#"><i className="fa-brands fa-linkedin"></i></a>
+                    <a href="https://www.facebook.com/yecla.steven" target='__blank'><i className="fa-brands fa-square-facebook"></i></a>
+                    <a href="https://www.instagram.com/steven_yecla/" target='__blank'><i className="fa-brands fa-square-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/yecla-steven-7387b2345/" target='__blank'><i className="fa-brands fa-linkedin"></i></a>
                 </div>
             </div>
         </div>
