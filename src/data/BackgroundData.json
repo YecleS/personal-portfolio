@@ -1,0 +1,49 @@
+{
+  "education": [
+    {
+        "id": 1,
+        "level": "Primary",
+        "school": "Pulo Elementary Shool",
+        "year": "2009 - 2015",
+        "awards": [""]
+    },
+    {
+        "id": 2,
+        "level": "Secondary",
+        "school": "Pulo National High School",
+        "year": "2015 - 2019",
+        "awards": ["Grade 6 – Top 5 Academic Achiever"]
+    },
+    {
+        "id": 3,
+        "level": "Senior Year",
+        "school": "AMA Computer College Calamba Campus",
+        "year": "2019 - 2021",
+        "awards": ["Grade 11 – Honorable Mention", "Grade 12 – Honorable Mention"]
+    },
+    {
+        "id": 4,
+        "level": "College",
+        "school": "University of Cabuyao",
+        "year": "2019 - 2025",
+        "awards": ["Dean's Lister - 2nd Semester", "Dean's Lister - 3nd Semester"]
+    }
+  ],
+
+  "work": [
+    {
+        "id": 5,
+        "position": "Web Design",
+        "name": "Creative Bananas",
+        "year": "Feb 5 - Apr 10, 2025",
+        "note": "I was an intern on Creative Bananas on the field of Web design"
+    },
+    {
+        "id": 6,
+        "position": "Web Development",
+        "name": "Creative Bananas",
+        "year": "Feb 5 - Apr 10, 2025",
+        "note": "I was an intern on Creative Bananas on the field of Web Development"
+    }
+  ]
+}

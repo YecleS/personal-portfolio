@@ -1,0 +1,79 @@
+footer {
+    background: url(../../assets/images/hero-bg.webp);
+    background-position: center;
+    background-position: cover;
+    background-size: cover;
+
+    color: white;
+    padding: 80px 20px;
+}
+
+footer .section-wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+}
+
+footer ul p  {
+    margin-bottom: 20px;
+
+    font-weight: 600;
+}
+
+footer ul li {
+    font-size: 0.95rem;
+    margin-top: 0.3rem;
+}
+
+footer ul li a{
+    color: white;
+}
+
+footer .social-icons-wrapper {
+    margin: 0;
+}
+
+footer .social-icons-wrapper i {
+    color: white;
+}
+
+
+footer ul p:nth-of-type(4) {
+    margin: 0;
+}
+
+
+.input-wrapper {
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 10px;
+
+    position: relative;
+}
+
+.input-wrapper input {
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: white;
+    border: none;
+    background: transparent;
+    outline: none;
+
+}
+
+.input-wrapper button {
+    font-size: 0.8rem;
+    font-weight: 500;
+    background: white;
+    color: black;
+    border-radius: 8px;
+    padding: 8px 15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+    position: absolute;
+    top: 50%;
+    right: 5px;
+    transform: translateY(-50%);
+}

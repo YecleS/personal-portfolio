@@ -1,0 +1,113 @@
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+    padding: 10px 5px;
+    z-index: 9999;
+}
+
+header .section-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    background: black;
+    border-radius: 8px;
+    padding: 8px 20px;
+}
+
+header .fa-bars, .fa-xmark {
+    color: white;
+    font-size: 1.5rem;
+}
+
+header .fa-xmark {
+    margin-bottom: 2rem;
+}
+
+.logo-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+}
+
+header img {
+    height: 45px;
+    width: auto;
+}
+
+header nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.8rem;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 300px;
+    transform: translateX(-300px);
+    transform-origin: left;
+
+    background: black;
+    z-index: 9999;
+    padding: 50px 10px;
+    transition: all 0.3s ease;
+}
+
+header nav.active {
+    transform: translateX(0);
+}   
+
+header nav a{
+    color: white;
+}
+
+
+/* Small devices (min-width: 640px) — e.g. small tablets */
+@media (min-width: 640px) {
+
+}
+
+/* Medium devices (min-width: 768px) — e.g. tablets */
+@media (min-width: 768px) {
+    header .fa-bars {
+        display: none;
+    }
+
+    header .fa-xmark {
+        display: none;
+    }
+
+    header nav {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 0.8rem;
+
+        position: static;
+        transform: none;
+        transform-origin: none;
+        height: auto;
+        width: auto;
+        padding: 0;
+    }
+}
+
+/* Large devices (min-width: 1024px) — e.g. laptops */
+@media (min-width: 1024px) {
+    
+}
+
+/* Extra large devices (min-width: 1280px) — e.g. desktops */
+@media (min-width: 1280px) {
+
+}
+
+/* 2XL devices (min-width: 1536px) — big desktops */
+@media (min-width: 1536px) {
+
+}

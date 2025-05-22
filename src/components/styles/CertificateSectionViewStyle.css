@@ -1,0 +1,26 @@
+#certificate-section .section-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#certificate-section h2 {
+    text-align: center;
+}
+
+#certificate-section .content-wrapper {
+    margin-top: 80px;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1rem;
+    width: 100%;
+}
+
+#certificate-section .buttoned-card .buttoned-card-icon-title {
+    display: none;
+}
+
+#certificate-section .buttoned-card .muted-text {
+    display: none;
+}

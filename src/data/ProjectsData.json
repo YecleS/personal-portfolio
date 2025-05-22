@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "title": "EchoLux",
+    "desp":"Echolux is a web design for my final project during my internship with Creative Bananas. Finishing this project will mark as the end of our internship in Creative Bananas.",
+    "date":"3/24/25",
+    "category": "design",
+    "projView": "https://www.figma.com/design/2oSyI46levGdsaToMSkSZt/EchoLux?node-id=0-1&t=zjc2wwe21N3WrCmA-1",
+    "liveView": "https://www.figma.com/proto/2oSyI46levGdsaToMSkSZt/EchoLux?page-id=0%3A1&node-id=1-2&viewport=-3168%2C-1795%2C0.13&t=RrSuXD9fIjTWhc3l-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=520%3A499"
+  },
+  {
+    "id": 2,
+    "title": "ElevateFit",
+    "date":"3/12/25",
+    "desp":"Elevate is a web design project during my internship with Creative Bananas. The task is to create a web design for a particular field, and my chosen field is about fitness.",
+    "category": "design",
+    "projView": "https://www.figma.com/design/qYDXAyvXnYfmrT3gXMvnVs/ElevateFit?node-id=0-1&t=JrehBKhFmQArg1cw-1",
+    "liveView": "https://www.figma.com/proto/qYDXAyvXnYfmrT3gXMvnVs/ElevateFit?page-id=0%3A1&node-id=4-2&viewport=402%2C241%2C0.13&t=XD6TyO505C6aVHbK-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4%3A2"
+  },
+  {
+    "id": 3,
+    "title": "Grab",
+    "date":"3/17/25",
+    "desp":"Grab web design is also one of my projects during my intership with Creative Bananas. The task involves creating a web design for existing local business.",
+    "projView": "https://www.figma.com/design/JUmW7TdzIhhHIcTBAtXatR/Web-Design-Task-8?node-id=96-1884&t=49zafIWBsNOI4T09-1",
+    "liveView": "https://www.figma.com/proto/JUmW7TdzIhhHIcTBAtXatR/Grab?page-id=0%3A1&node-id=26-1305&viewport=254%2C222%2C0.15&t=tI3334LVMXQGTAFF-1&scaling=min-zoom&content-scaling=fixed"
+  },
+  {
+    "id": 301,
+    "title": "SweatSync",
+    "date":"3/12/25",
+    "desp":"SweatSync is a UI/UX project during my internship with Creative Bananas. The task is to let us experience the process of creating a design for apps",
+    "projView": "https://www.figma.com/design/nkRX1G2r0dZgE5XJbNqRST/SweatSync-App?node-id=0-1&t=YfxK99g5DLPZCDvE-1",
+    "liveView": "https://www.figma.com/proto/nkRX1G2r0dZgE5XJbNqRST/SweatSync-App?page-id=0%3A1&node-id=2-2223&viewport=1128%2C183%2C0.39&t=6tlVqgnFYcDcBgxP-1&scaling=scale-down&content-scaling=fixed"
+  },
+  {
+    "id": 4,
+    "title": "TravelAgency",
+    "date":"2/10/25",
+    "desp":"Travel Juan is my very first project during my internship with Creative Bananas. It involves creating a brand with brand book, business card and at the same time promoting it using web design.",
+    "category": "design",
+    "projView": "https://www.figma.com/design/8sxF9sD9wp2lLFz7cZlJbS/Travel-Agency?node-id=1-2&t=NA9OKgrIjrCA1qS3-1",
+    "liveView": "https://www.figma.com/proto/8sxF9sD9wp2lLFz7cZlJbS/Travel-Agency?node-id=1-2&t=NaYtzfNU6IWXJyjf-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1"
+  },
+  {
+    "id": 5,
+    "title": "Roomly",
+    "date":"5/21/23",
+    "desp":"Roomly is a web design project and my attempt to create an e-commerce website. This is the initial design that later will be turned into an e-commerce website.",
+    "category": "design",
+    "projView": "https://www.figma.com/design/1aiHyVRq3IC2rzB7c0NFAT/e-commerce?node-id=0-1&p=f&t=kecCMuZR9CxgqOUF-0",
+    "liveView": "https://www.figma.com/proto/1aiHyVRq3IC2rzB7c0NFAT/e-commerce?node-id=24-2&t=z1F7tcf9QYaeAkh4-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1"
+  },
+  {
+    "id": 6,
+    "title": "PartyBuilderz",
+    "date":"1/15/22",
+    "desp":"PartyBuilderz is a school project web design made to showcase our fictional business. We were tasked to create a business and showcase it in IT way.",
+    "category": "design",
+    "projView": "https://www.figma.com/design/KKCU4rqMNSNQZ1svx68jDL/party-builderz?node-id=0-1&t=QL1ygdBGubk9OdDb-1",
+    "liveView": "https://www.figma.com/proto/KKCU4rqMNSNQZ1svx68jDL/party-builderz?node-id=2-555&p=f&t=2El667vo6cIAtz55-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A555"
+  },
+  {
+    "id": 7,
+    "title": "Document Converter",
+    "date":"5/24/21",
+    "desp":"Document Converter is my personal web design project. It’s my very first project that i’ve worked on. I made this because i want to explore the capabilities of figma.",
+    "category": "design",
+    "projView": "https://www.figma.com/design/to72THQdKkt9YP2QtrdyQr/Document-Converter?node-id=0-1&t=OFea4NOwj0w1AAPI-1",
+    "liveView": "https://www.figma.com/proto/to72THQdKkt9YP2QtrdyQr/Document-Converter?node-id=3-2&p=f&t=5BYJXWh92tBtD5Ok-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2"
+  },
+  {
+    "id": 101,
+    "title": "Fitplan",
+    "date":"1/5/24",
+    "desp":"FitPlan is a web application designed to help gym enthusiasts create custom workout routines with detailed information about each exercise",
+    "category": "development",
+    "liveView": "https://fit-plan.lovestoblog.com"
+  },
+  {
+    "id": 202,
+    "title": "SeaFood",
+    "date":"5/10/22",
+    "desp":"The SeaFood South East Asian Food Catalog is a web application that showcases a variety of traditional and popular seafood dishes from Southeast Asia.",
+    "category": "development",
+    "liveView": "http://se-asiafoods.onlinewebshop.net"
+  },
+  {
+    "id": 303,
+    "title": "Yecipes",
+    "date":"7/25/22",
+    "desp":"Yecipes is a web application dedicated to promoting healthy vegetarian eating. It features a curated catalog of vegetarian recipes with detailed information about the dish.",
+    "category": "development",
+    "liveView": "https://yecipes.netlify.app"
+  }
+]

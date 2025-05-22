@@ -1,0 +1,6 @@
+[
+    { "id": 1, "label": "IT Technical Support", "descp": "I have a knack for solving technical issues, whether it's troubleshooting hardware, fixing software glitches, or resolving network problems." },
+    { "id": 2, "label": "Web Design", "descp": "I love designing websites that look great and make navigation easy. I’m always exploring ways to improve layout, style, and flow." },
+    { "id": 3, "label": "UI/UX Design", "descp": "I’m learning to design smooth, user-friendly experiences by focusing on how people interact with digital products." },
+    { "id": 4, "label": "Front End Development", "descp": "I bring designs to life in the browser, writing clean, responsive code that makes websites fast and interactive." }
+]

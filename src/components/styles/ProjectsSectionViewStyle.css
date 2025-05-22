@@ -1,0 +1,74 @@
+#projects-section .section-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#projects-section h2 {
+    text-align: center;
+}
+
+#projects-section .content-wrapper {
+    margin-top: 80px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    min-height: 500px;
+}
+
+#projects-section ul {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+#projects-section li {
+    white-space: nowrap;
+
+    font-size: 1rem;
+    position: relative;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#projects-section li::after {
+    content: ' ';
+    height: 3px;
+    width: 100%;
+    border-radius: 200px;
+    background: var(--blue-accent);
+    transform: scale(0);
+    transform-origin: center;
+    
+    position: absolute;
+    left: 0;
+    bottom: -8px;
+    transition: all 0.3s ease;
+}
+
+#projects-section li.active-tab::after {
+    transform: scale(1);
+}
+
+#projects-section .cards-wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1rem;
+
+    width: 100%;
+    margin-top: 60px;
+}
+
+#projects-section .card img{
+    width: 30px;
+}
+
+#projects-section .first-button {
+    font-size: 0.9rem;
+}
+
+#projects-section .second-button {
+    font-size: 0.9rem;
+}
