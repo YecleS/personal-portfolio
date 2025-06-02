@@ -42,6 +42,7 @@ a {
 
 li {
   list-style: none;
+  overflow-wrap: break-word;
 }
 
 section {
