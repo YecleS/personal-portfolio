@@ -47,7 +47,7 @@ header nav {
     position: fixed;
     top: 0;
     left: 0;
-    height: 100svh;
+    height: 100dvh;
     width: 300px;
     transform: translateX(-300px);
     transform-origin: left;
