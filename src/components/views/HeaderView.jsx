@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import '../styles/HeaderViewStyle.css';
 
 import PortfolioLogo from '../../assets/logos/portfolio-logo.svg'
@@ -12,8 +12,15 @@ export default function HeaderView() {
     const toggleSidebar = () => {
         setSidebarIsActive(!sidebarIsActive);
     }
-    
     useClickOutside(navRef, () => {setSidebarIsActive(false)});
+
+    useEffect(() => {
+      if(sidebarIsActive) {
+        document.body.style.overflow = "hidden";
+      }else {
+        document.body.style.overflow = "";
+      }
+    },[sidebarIsActive])
 
 
   return (
