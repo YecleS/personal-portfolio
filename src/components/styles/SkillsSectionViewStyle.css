@@ -21,13 +21,13 @@
 #skills-section ul {
     display: flex;
     align-items: center;
-    gap: 1rem;
+    gap: 0.5rem;
 }
 
 #skills-section li {
     white-space: nowrap;
 
-    font-size: 1rem;
+    font-size: 0.9rem;
     position: relative;
     cursor: pointer;
     transition: all 0.3s ease;

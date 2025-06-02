@@ -27,7 +27,7 @@
 #projects-section li {
     white-space: nowrap;
 
-    font-size: 1rem;
+    font-size: 0.9rem;
     position: relative;
     cursor: pointer;
     transition: all 0.3s ease;
