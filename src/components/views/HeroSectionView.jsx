@@ -16,10 +16,10 @@ export default function HeroSectionView() {
           <p>Hello, i'm Steven Yecla</p>
           <h1>
             Aspiring <span className="accent-text">IT Support Technician</span>{" "}
-            <br />& <span className="accent-text">Web Desinger</span>
+            <br />& <span className="accent-text">Web Designer</span>
           </h1>
           <a
-            href="/Steven Yecla - Resume.pdf"
+            href="/Steven_Yecla-Resume.pdf"
             download
             className="hero-cta"
           >
